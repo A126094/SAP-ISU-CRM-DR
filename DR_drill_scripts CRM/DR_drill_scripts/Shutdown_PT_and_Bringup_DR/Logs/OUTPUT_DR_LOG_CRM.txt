@@ -1,0 +1,98 @@
+*******************************************************************
+SAP DR preparation has been initiated start date and time is: 7/15/2018 12:20:55 AM
+*******************************************************************
+*******************************************************************
+SAP PT system offline has been initiated for DR drill start date and time is: 7/15/2018 12:20:57 AM
+*******************************************************************
+*******************************************************************
+SAP system is shutting down and time is: 7/15/2018 12:21:00 AM
+*******************************************************************
+SYSTEM IS DOWN NOW
+SAP system has been stopped successfully date and time is: 7/15/2018 12:22:40 AM
+*******************************************************************
+Detach database has been started Date and time is: 7/15/2018 12:22:40 AM
+*******************************************************************
+Database CPT has been dettached successfully
+Stopping SQL cluster without the disks Start: 7/15/2018 12:23:39 AM
+*******************************************************************
+SQL cluster has been stopped without the disks at: 7/15/2018 12:23:57 AM
+*******************************************************************
+*******************************************************************
+SAP PT system offline has been finished date and time is: 7/15/2018 12:24:03 AM
+*******************************************************************
+Remove PT disk has been started: 7/15/2018 12:24:05 AM
+*******************************************************************
+Remove PT disk has been finished: 7/15/2018 12:24:34 AM
+*******************************************************************
+PT unmap DR Map Storage task started: 7/15/2018 12:24:42 AM
+*******************************************************************
+PT unmap DR Map Storage task finished: 7/15/2018 12:25:08 AM
+*******************************************************************
+Cluseter Group SQL Server (MSSQLSERVER) is starting at Date and time is: 7/15/2018 12:25:12 AM
+*******************************************************************
+Cluster Group SQL Server (MSSQLSERVER) is up and running
+Cluseter Group SQL Server (MSSQLSERVER) has been started at Date and time is: 7/15/2018 12:25:26 AM
+*******************************************************************
+Cluster Group SQL Server (MSSQLSERVER) failover has been started at Date and time is: 7/15/2018 12:25:26 AM
+*******************************************************************
+Cluster is up and running
+Failover to node GLAWI1256 SQL Server (MSSQLSERVER) started please wait..
+Cluseter Group SQL Server (MSSQLSERVER) failover completed at Date and time is: 7/15/2018 12:25:51 AM
+*******************************************************************
+Cluster Group SQL Server (MSSQLSERVER) failover has been started at Date and time is: 7/15/2018 12:25:51 AM
+*******************************************************************
+Cluster is up and running
+Failover to node GLAWI1257 SQL Server (MSSQLSERVER) started please wait..
+Cluseter Group SQL Server (MSSQLSERVER) failover completed at Date and time is: 7/15/2018 12:26:16 AM
+*******************************************************************
+Add DR disk to cluster started: 7/15/2018 12:26:16 AM
+*******************************************************************
+Add DR disk to cluster finished: 7/15/2018 12:27:23 AM
+*******************************************************************
+Attach database has been started Date and time is: 7/15/2018 12:27:26 AM
+*******************************************************************
+Database CP1 has been attached successfully
+Orphan login problem solve started Date and time is: 7/15/2018 12:27:38 AM
+*******************************************************************
+Orphan login problem has been solved now
+*******************************************************************
+Cluseter Group SAP CP1 is starting at Date and time is: 7/15/2018 12:27:38 AM
+*******************************************************************
+Cluster Group SAP CP1 is up and running
+Cluseter Group SAP CP1 has been started at Date and time is: 7/15/2018 12:30:28 AM
+*******************************************************************
+Cluster Group SAP CP1 failover has been started at Date and time is: 7/15/2018 12:30:28 AM
+*******************************************************************
+Cluster is up and running
+Failover to node GLAWI1256 SAP CP1 started please wait..
+Cluseter Group SAP CP1 failover completed at Date and time is: 7/15/2018 12:33:49 AM
+*******************************************************************
+Cluster Group SAP CP1 failover has been started at Date and time is: 7/15/2018 12:33:49 AM
+*******************************************************************
+Cluster is up and running
+Failover to node GLAWI1257 SAP CP1 started please wait..
+Cluseter Group SAP CP1 failover completed at Date and time is: 7/15/2018 12:36:19 AM
+*******************************************************************
+R3trans checking started Date and time is: 7/15/2018 12:36:19 AM
+*******************************************************************
+R3trans is ok to proceed
+R3trans checking ended Date and time is: 7/15/2018 12:36:20 AM
+*******************************************************************
+Table clear Job hold and RFC modify start Date and time is: 7/15/2018 12:36:20 AM
+*******************************************************************
+Table clear/Job hold/RFC modify/configuration modify completed Date and time is: 7/15/2018 12:36:49 AM
+*******************************************************************
+*******************************************************************
+SAP system is starting Date and time is: 7/15/2018 12:36:49 AM
+*******************************************************************
+SYSTEM IS UP AND RUNNING
+SAP system has been started successfully date and time is: 7/15/2018 12:38:23 AM
+*******************************************************************
+*******************************************************************
+SICK T-CODE run satrt date and time is: 7/15/2018 12:38:23 AM
+*******************************************************************
+SICK T-CODE run end date and time is: 7/15/2018 12:38:53 AM
+*******************************************************************
+*******************************************************************
+SAP DR Preparation has been finished date and time is: 7/15/2018 12:38:53 AM
+*******************************************************************

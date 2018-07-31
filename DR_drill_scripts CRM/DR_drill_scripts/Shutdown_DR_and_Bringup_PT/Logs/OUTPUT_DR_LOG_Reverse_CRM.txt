@@ -1,0 +1,63 @@
+*******************************************************************
+SAP bring DR offile and PT online preparation has been initiated start date and time is: 7/15/2018 1:53:14 AM
+*******************************************************************
+*******************************************************************
+SAP system is shutting down and time is: 7/15/2018 1:53:17 AM
+*******************************************************************
+SYSTEM IS DOWN NOW
+SAP system has been stopped successfully date and time is: 7/15/2018 1:55:02 AM
+*******************************************************************
+Detach database has been started Date and time is: 7/15/2018 1:55:02 AM
+*******************************************************************
+Database CP1 has been dettached successfully
+Stopping SQL cluster without the disks Start: 7/15/2018 1:55:08 AM
+*******************************************************************
+SQL cluster has been stopped without the disks at: 7/15/2018 1:55:19 AM
+*******************************************************************
+*******************************************************************
+Removal of DR disks from cluster started: 7/15/2018 1:55:19 AM
+*******************************************************************
+Removal of DR disks from cluster finished: 7/15/2018 1:55:30 AM
+*******************************************************************
+*******************************************************************
+PT LUN mapping has been started: 7/15/2018 1:55:35 AM
+*******************************************************************
+PT LUN mapping has been finished: 7/15/2018 1:55:50 AM
+*******************************************************************
+*******************************************************************
+PT Disk addition to cluster started: 7/15/2018 1:55:56 AM
+*******************************************************************
+PT Disk addition to cluster finished: 7/15/2018 1:57:07 AM
+*******************************************************************
+*******************************************************************
+SAP PT system offline has been initiated for DR drill start date and time is: 7/15/2018 1:57:09 AM
+*******************************************************************
+Cluseter Group SQL Server (SQLSVRCPT) is starting at Date and time is: 7/15/2018 1:57:13 AM
+*******************************************************************
+Cluster Group SQL Server (SQLSVRCPT) is up and running
+Cluseter Group SQL Server (SQLSVRCPT) has been started at Date and time is: 7/15/2018 1:57:28 AM
+*******************************************************************
+Attach database has been started Date and time is: 7/15/2018 1:57:28 AM
+*******************************************************************
+Database CPT has been attached successfully
+Orphan login problem solve started Date and time is: 7/15/2018 1:57:35 AM
+*******************************************************************
+Orphan login problem has been solved now
+*******************************************************************
+Cluseter Group SAP CPT is starting at Date and time is: 7/15/2018 1:57:35 AM
+*******************************************************************
+Cluster Group SAP CPT is up and running
+Cluseter Group SAP CPT has been started at Date and time is: 7/15/2018 2:00:25 AM
+*******************************************************************
+*******************************************************************
+SAP system is starting Date and time is: 7/15/2018 2:00:25 AM
+*******************************************************************
+SYSTEM IS UP AND RUNNING
+SAP system has been started successfully date and time is: 7/15/2018 2:02:52 AM
+*******************************************************************
+*******************************************************************
+SAP PT system online has been finished date and time is: 7/15/2018 2:02:52 AM
+*******************************************************************
+*******************************************************************
+SAP DR system is down and PT system is up and running now date and time is: 7/15/2018 2:02:54 AM
+*******************************************************************
