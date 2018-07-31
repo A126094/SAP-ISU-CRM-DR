@@ -1,0 +1,61 @@
+*******************************************************************
+SAP bring DR offile and PT online preparation has been initiated start date and time is: 7/15/2018 1:52:25 AM
+*******************************************************************
+*******************************************************************
+SAP system is shutting down and time is: 7/15/2018 1:52:50 AM
+*******************************************************************
+SYSTEM IS DOWN NOW
+SAP system has been stopped successfully date and time is: 7/15/2018 1:54:36 AM
+*******************************************************************
+Detach database has been started Date and time is: 7/15/2018 1:54:36 AM
+*******************************************************************
+Database IP1 has been dettached successfully
+Stopping SQL cluster without the disks Start: 7/15/2018 1:55:24 AM
+*******************************************************************
+SQL cluster has been stopped without the disks at: 7/15/2018 1:55:32 AM
+*******************************************************************
+*******************************************************************
+Removal of DR disks from cluster started: 7/15/2018 1:55:32 AM
+*******************************************************************
+Removal of DR disks from cluster finished: 7/15/2018 1:55:42 AM
+*******************************************************************
+*******************************************************************
+PT LUN mapping has been started: 7/15/2018 1:55:46 AM
+*******************************************************************
+PT LUN mapping has been finished: 7/15/2018 1:56:03 AM
+*******************************************************************
+*******************************************************************
+PT Disk addition to cluster started: 7/15/2018 1:56:07 AM
+*******************************************************************
+*******************************************************************
+SAP PT system offline has been initiated for DR drill start date and time is: 7/15/2018 1:57:20 AM
+*******************************************************************
+Cluseter Group SQL Server (SQLSVRIPT) is starting at Date and time is: 7/15/2018 1:57:23 AM
+*******************************************************************
+Cluster Group SQL Server (SQLSVRIPT) is up and running
+Cluseter Group SQL Server (SQLSVRIPT) has been started at Date and time is: 7/15/2018 1:57:37 AM
+*******************************************************************
+Attach database has been started Date and time is: 7/15/2018 1:57:37 AM
+*******************************************************************
+Database IPT has been attached successfully
+Orphan login problem solve started Date and time is: 7/15/2018 1:57:44 AM
+*******************************************************************
+Orphan login problem has been solved now
+*******************************************************************
+Cluseter Group SAP IPT is starting at Date and time is: 7/15/2018 1:57:44 AM
+*******************************************************************
+Cluster Group SAP IPT is up and running
+Cluseter Group SAP IPT has been started at Date and time is: 7/15/2018 2:00:34 AM
+*******************************************************************
+*******************************************************************
+SAP system is starting Date and time is: 7/15/2018 2:00:34 AM
+*******************************************************************
+SYSTEM IS UP AND RUNNING
+SAP system has been started successfully date and time is: 7/15/2018 2:03:49 AM
+*******************************************************************
+*******************************************************************
+SAP PT system online has been finished date and time is: 7/15/2018 2:03:49 AM
+*******************************************************************
+*******************************************************************
+SAP DR system is down and PT system is up and running now date and time is: 7/15/2018 2:03:49 AM
+*******************************************************************
